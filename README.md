@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 关于我
+## 🧑‍💻 About ME
 
 > **网站工程师 & 软/硬件工程师** —— 擅长从硬件设计到软件实现的全栈技术解决方案，目前就读于北京985高校，欢迎交流和合作。
 
@@ -14,7 +14,6 @@
 ### 🌐 网站开发技术栈
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -31,8 +30,9 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kicad%20-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB-FF7A00?style=for-the-badge&logo=pcb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLIDWORKS-E21B23?style=for-the-badge&logo=solidworks&logoColor=white" />
 </p>
 
 ---
