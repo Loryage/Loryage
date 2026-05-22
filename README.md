@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0A1A3A&height=180&section=header&text=欢迎来到Loryage的技术空间&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 
----
-
 ## 🧑‍💻 About ME
 
 > **网站工程师 & 软/硬件工程师** —— 擅长从硬件设计到软件实现的全栈技术解决方案，目前就读于北京985高校，欢迎交流和合作。
@@ -33,6 +31,7 @@
   <img src="https://img.shields.io/badge/Kicad%20-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB-FF7A00?style=for-the-badge&logo=pcb&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLIDWORKS-E21B23?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-FF7A00?style=for-the-badge&logo=pcb&logoColor=white" />
 </p>
 
 ---
