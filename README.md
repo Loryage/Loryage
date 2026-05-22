@@ -1,8 +1,6 @@
-# 👋 欢迎来到Loryage的技术空间
-
 <p align="center">
   <!-- 动态波浪图头部：让页面顶部更具科技感 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0A1A3A&height=180&section=header&text=罗睿哲&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0A1A3A&height=180&section=header&text=欢迎来到Loryage的技术空间&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 
 ---
@@ -10,11 +8,6 @@
 ## 🧑‍💻 关于我
 
 > **网站工程师 & 软/硬件工程师** —— 擅长从硬件设计到软件实现的全栈技术解决方案，目前就读于北京985高校，欢迎交流和合作。
-
-<!-- 访问者计数器：实时展示个人主页热度 -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Loryage.Loryage" alt="Visitors" />
-</p>
 
 🛠️ 技术专长
 
@@ -44,29 +37,25 @@
 
 ---
 
-## 📊 能力雷达图
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loryage&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+<!-- 访问者计数器：实时展示个人主页热度 -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Loryage.Loryage" alt="Visitors" />
+</p>
 ---
 
 ## 🚀 核心项目
-
-### 2026 | 物联网设备管理平台
+### 2026 | 物联网设备管理平台 `ESP32 | API | PCB设计 | 网站架构`
 设计并实现ESP32终端，支持语音指令采集，并可实时获取网站表单数量与日程数据，完成设备侧与平台侧协同联动。
 
-*`ESP32 | API | PCB设计 | 网站架构`*
-
-### 2025 | 工业设备巡检机器人
+### 2025 | 工业设备巡检机器人 `PCB设计 | STM32 | K230 | 工业级`
 基于STM32与K230平台完成巡检机器人方案，集成自主导航、环境感知与现场数据采集能力，适配工业巡检场景。
 
-*`PCB设计 | STM32 | K230 | 工业级`*
-
-### 2024 | MP3音乐播放器
+### 2024 | MP3音乐播放器 `STM32 | MP3 | ASRpro | 菜单设计`
 基于STM32开发播放器终端，支持本地文件播放、音乐库检索与菜单显示，实现从底层驱动到交互逻辑的完整闭环。
-
-*`STM32 | MP3 | ASRpro | 菜单设计`*
 
 ---
 
@@ -82,9 +71,7 @@
 - **技术顾问**：提供专业技术咨询，解决开发过程中的技术难题
 - **团队协作**：加入现有开发团队，补充技术能力，加速项目推进
 
----
-
-## 📫 联系我
+ 📫 联系我
 
 <p align="center">
   <a href="https://github.com/Loryage">
