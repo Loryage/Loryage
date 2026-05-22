@@ -1,9 +1,4 @@
-# 👋 欢迎来到罗睿哲的技术空间
-
-<p align="center">
-  <!-- 动态打字效果：突出你的全栈与硬件融合定位，cool -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=资深工程师+%7C+全栈开发+%7C+嵌入式工程师;从硬件底层到云端架构%2C+构建完整技术闭环;生命不息%2C+学习不止%2C+坚持走在技术前沿" alt="Typing SVG" />
-</p>
+# 👋 欢迎来到Loryage的技术空间
 
 <p align="center">
   <!-- 动态波浪图头部：让页面顶部更具科技感 -->
@@ -16,24 +11,12 @@
 
 > **网站工程师 & 软/硬件工程师** —— 擅长从硬件设计到软件实现的全栈技术解决方案，目前就读于北京985高校，欢迎交流和合作。
 
-- 🎯 坚持走在技术前列，生命不息学习不止
-- 💡 具备从需求分析、原型验证到稳定上线的全流程协作能力
-- 🤝 开放合作，聚焦高价值技术落地
-
-<!-- GitHub统计卡片：动态展示你的代码活跃度 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loryage&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loryage&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 <!-- 访问者计数器：实时展示个人主页热度 -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Loryage.Loryage" alt="Visitors" />
 </p>
 
----
-
-## 🛠️ 技术专长
+🛠️ 技术专长
 
 ### 🌐 网站开发技术栈
 <p align="left">
