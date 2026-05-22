@@ -45,7 +45,6 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Loryage.Loryage" alt="Visitors" />
 </p>
----
 
 ## 🚀 核心项目
 ### 2026 | 物联网设备管理平台 `ESP32 | API | PCB设计 | 网站架构`
@@ -84,8 +83,6 @@
     <img src="https://img.shields.io/badge/个人网站-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <!-- 动态波浪图尾部：优雅收尾 -->
